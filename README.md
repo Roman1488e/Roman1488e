@@ -1,22 +1,83 @@
-<h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">A junior web developer(backend focused),</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roman1488e&label=Profile%20views&color=0e75b6&style=flat" alt="roman1488e" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roman1488e" alt="roman1488e" /></a> </p>
-
-- 📫 How to reach me **Telegram @greatpool**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3e62ff,100:4f8cff&height=200&section=header&text=Roman1488e%20👋&fontAlign=50&fontSize=50&fontColor=ffffff" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Roman1488e?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Roman1488e&color=blue" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roman1488e&show_icons=true&locale=en&layout=compact" alt="roman1488e" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roman1488e&show_icons=true&locale=en" alt="roman1488e" /></p>
+<h2 align="center">🧑‍💻 About Me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roman1488e&" alt="roman1488e" /></p>
+<p align="center">
+  Hi, I'm <b>Roman</b> — a passionate <b>Full Stack Developer</b> specializing in <b>ASP.NET Core, Blazor, C#, and modern web technologies</b>.
+  <br>
+  I love building scalable, interactive, and beautiful web apps.
+</p>
 
+---
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roman1488e&show_icons=true&theme=radical" alt="Roman's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Roman1488e&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman1488e&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">🌟 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Roman1488e/LedMagazineBack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roman1488e&repo=LedMagazineBack&theme=radical" />
+  </a>
+  <a href="https://github.com/Roman1488e/MagazineFront">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roman1488e&repo=MagazineFront&theme=radical" />
+  </a>
+  <a href="https://github.com/Roman1488e/MagazineCRM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roman1488e&repo=MagazineCRM&theme=radical" />
+  </a>
+  <a href="https://github.com/Roman1488e/BlazorAuth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roman1488e&repo=BlazorAuth&theme=radical" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">📫 Get in Touch</h2>
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3e62ff,100:4f8cff&height=120&section=footer"/>
+</p>
